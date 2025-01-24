@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Project</h2>
 
 - <b>Sales Performance Dashboard (what makes an effective dashboard)</b>
-  - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/blob/main/README.md)
+  - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
