@@ -2,11 +2,10 @@
 
 <h2>👨‍💻 Data Analytics Project</h2>
 
-- <b>Sales Performance Dashboard (what makes an effective dashboard)</b>
+- <b>Sales Performance Power BI (what makes an effective dashboard)</b>
   - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Superstore Performance Power BI (spoting trends using tables and comparison time periods using DAX)</b>
+  - [Superstore Performance](https://github.com/AlexVasilevski2/SuperstorePerformance-PowerBI/tree/main) 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
