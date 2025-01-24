@@ -2,14 +2,10 @@
 
 <h2>👨‍💻 Data Analytics Project</h2>
 
-- <b>Sales Performance Power BI (what makes an effective dashboard)</b>
-  - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)
-- <b>Superstore Performance Power BI (spoting trends using tables and comparison time periods using DAX)</b>
-  - [Superstore Performance](https://github.com/AlexVasilevski2/SuperstorePerformance-PowerBI/tree/main) 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Power BI</b>
+  - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)  <b>(what makes an effective dashboard)</b>
+  - [Superstore Performance](https://github.com/AlexVasilevski2/SuperstorePerformance-PowerBI/tree/main)  <b> (spoting trends using tables and comparison time periods using DAX)</b>
+
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
