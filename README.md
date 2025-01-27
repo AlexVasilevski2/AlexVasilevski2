@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/>  <a >Data Analyst</a>  <a >Power BI</a>, <a >SQL</a>, <a >Python</a>, <a >Excel</a></h1>
+<h1>Hi, I'm Alex! <br/>  <a >Data Analyst</a>,  <a >Power BI</a>, <a >SQL</a>, <a >Python</a>, <a >Excel</a></h1>
 
 <h2>👨‍💻 Data Analytics Project</h2>
 
