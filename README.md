@@ -6,6 +6,9 @@
   - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)  <b>(what makes an effective dashboard)</b>
   - [Superstore Performance](https://github.com/AlexVasilevski2/SuperstorePerformance-PowerBI/tree/main)  <b> (spoting trends using tables and comparison time periods using DAX)</b>
 
+  - <b>Excel</b>
+  - [Financial Modelling Projects](https://github.com/AlexVasilevski2/Excel-Dashboards/tree/main)  <b>(Financial modelling, forecasting, sensitvity and scenration anlaysis)</b>
+
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
