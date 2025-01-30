@@ -2,19 +2,18 @@
 
 <h2>👨‍💻 Data Analytics Projects</h2>
 
-- <b>Power BI</b>
+- <b>Power BI & Python</b>
+  - [Customer Churn Dashboard Project 1](https://github.com/AlexVasilevski2/Projects/tree/main)  <b>(What are the key reasons for customers to churn, what actions could we take to reduce churn?)</b>
   - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)  <b>(what makes an effective dashboard)</b>
+  - [Return to Work time - Worksafe Project 2](https://github.com/AlexVasilevski2/Projects/tree/main)  <b>(What are the key reasons for customers to churn, what actions could we take to reduce churn?)</b>
   - [Superstore Performance](https://github.com/AlexVasilevski2/SuperstorePerformance-PowerBI/tree/main)  <b> (spoting trends using tables and comparison time periods using DAX)</b>
 
 - <b>Excel</b>
   - [Financial Modelling Projects](https://github.com/AlexVasilevski2/Excel-Dashboards/tree/main)  <b>(Financial modelling, forecasting, sensitvity and scenration anlaysis)</b>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin] (https://www.linkedin.com/in/alex-vasilevski-5a052051/)
+[linkedIn](https://www.linkedin.com/in/alex-vasilevski-5a052051/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
