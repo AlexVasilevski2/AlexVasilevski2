@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects</h2>
 
 - <b>Power BI & Python</b>
-  - [Customer Churn Dashboard Project 1](https://github.com/AlexVasilevski2/Projects/tree/main)  <b>(What are the key reasons for customers to churn, what actions could we take to reduce churn?)</b>
+  - [Customer Churn Dashboard Project](https://github.com/AlexVasilevski2/Projects/tree/main)  <b>(What are the key reasons for customers to churn, what actions could we take to reduce churn?)</b>
   - [Sales Performance](https://github.com/AlexVasilevski2/DashboardsPortfolio/tree/main)  <b>(what makes an effective dashboard)</b>
   - [Return to Work time - Worksafe Project 2](https://github.com/AlexVasilevski2/Projects/tree/main)  <b>(What are the key reasons for customers to churn, what actions could we take to reduce churn?)</b>
 
